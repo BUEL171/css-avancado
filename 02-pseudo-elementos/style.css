@@ -27,4 +27,4 @@ li::marker{
 
 .before::before {
     content: url(logo.jpg);
-}
+} 
