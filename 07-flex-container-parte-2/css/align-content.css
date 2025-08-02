@@ -1,6 +1,6 @@
 .container {
     height: 130px;
-    flex-wrap: wrap; 
+    flex-wrap: wrap;
 }
 
 .flex-start .item,
